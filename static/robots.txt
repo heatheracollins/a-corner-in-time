@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://heatheracollins.github.io/a-corner-in-time/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
+Disallow: /email/
